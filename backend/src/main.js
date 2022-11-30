@@ -136,6 +136,9 @@ const addMetadata = (_dna, _edition) => {
     edition: _edition,
     ...extraMetadata,
     date: dateTime,
+    Brand: "Alpha EyeZ",
+    Motto: "Your Perspective Guides Your Future",
+    Symbol: "LnCT",
     compiler: "HashLips Art Engine - codeSTACKr Modified",
   };
   if (network == NETWORK.sol) {

@@ -22,6 +22,9 @@ const genericObject = {
   "image": GENERIC_IMAGE,
   "external_url": extraMetadata.external_url || null,
   "date": 1647039293429,
+  "Brand": "Alpha EyeZ",
+  "Motto": "Your Perspective Guides Your Future",
+  "Symbol": "LnCT",
   "compiler": "HashLips Art Engine - codeSTACKr Modified"
 }
 

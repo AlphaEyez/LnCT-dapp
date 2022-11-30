@@ -76,6 +76,9 @@ async function main() {
       "external_url": metaData?.external_url,
       "custom_fields": {
         "date": metaData.date,
+        "Brand": "Alpha EyeZ",
+        "Motto": "Your Perspective Guides Your Future",
+        "Symbol": "LnCT",
         "compiler": "HashLips Art Engine - codeSTACKr Modified"
       }
     }
